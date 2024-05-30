@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11694640503",
+    "project_id": "chat-app-workshop-amit",
+    "storage_bucket": "chat-app-workshop-amit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11694640503:android:59fe1e820f10e1e7ab6572",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_workshop_amit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCycQOLeWrgQqbVZ2SYKFeOPcWG9PppFDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
